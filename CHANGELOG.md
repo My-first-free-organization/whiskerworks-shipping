@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 143
-- shipping: maintenance and dependency updates (2026-11-27 06:57)
+## Sprint 144
+- shipping: maintenance and dependency updates (2026-11-27 09:26)
